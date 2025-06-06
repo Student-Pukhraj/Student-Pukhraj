@@ -23,9 +23,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=student-pukhraj&show_icons=true&locale=en&layout=compact" alt="student-pukhraj" /></p>)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=student-pukhraj&show_icons=true&locale=en" alt="student-pukhraj" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=student-pukhraj&" alt="student-pukhraj" /></p>
+
 ---
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pukhraj-jharotiya-b44287287/)
-[![Portfolio](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=globe)]([cwp-pukhrajportfolio.netlify.app](My-Portfolio))
+[![Portfolio](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=globe)](cwp-pukhrajportfolio.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Student-Pukhraj/)
