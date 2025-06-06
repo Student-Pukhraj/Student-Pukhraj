@@ -27,5 +27,5 @@
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pukhraj-jharotiya-b44287287/)
-[![Portfolio](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=globe)]([https://your-website.com](https://cwp-pukhrajportfolio.netlify.app/))
+[![Portfolio](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=globe)]([cwp-pukhrajportfolio.netlify.app](My-Portfolio))
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Student-Pukhraj/)
