@@ -25,14 +25,18 @@ I love creating scalable web applications and enjoy debugging almost as much as 
 
 ### 🚀 Featured Projects
 
-| Project            | Description                          | Link                                                         |
-|--------------------|----------------------------------|--------------------------------------------------------------|
-| Lockmate | A secure and user-friendly web app for managing passwords | [Live Demo]([https://github.com/Student-Pukhraj/](https://cwp-lockmate.vercel.app/)) |
-| Portfolio Website | Personal portfolio with React & Tailwind CSS | [Live Site](https://cwp-pukhrajportfolio.netlify.app/)        |
+| Project           | Description                                     | Link                                                                                 |
+|-------------------|------------------------------------------------|--------------------------------------------------------------------------------------|
+| Lockmate          | A secure and user-friendly web app for managing passwords | [Live Demo](https://cwp-lockmate.vercel.app/)                                       |
+| Portfolio Website | Personal portfolio with React & Tailwind CSS   | [Live Site](https://cwp-pukhrajportfolio.netlify.app/)                               |
 
 ---
 
 ### 🛠️ My Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,storybook,graphql,go,rust,nestjs,py,aws" height="60" alt="Tech stack icons" />
+</div>
 
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" />
@@ -92,3 +96,18 @@ I love creating scalable web applications and enjoy debugging almost as much as 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
+
+---
+
+<!-- Optional: GitHub contribution and trophy graphs -->
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Student-Pukhraj&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=Student-Pukhraj&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Student-Pukhraj/Student-Pukhraj/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Student-Pukhraj/Student-Pukhraj/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Student-Pukhraj/Student-Pukhraj/output/pacman-contribution-graph.svg" />
+</picture>
