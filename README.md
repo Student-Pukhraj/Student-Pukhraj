@@ -1,11 +1,20 @@
 <h1 align="center">Hi 👋, I'm Pukhraj Jharotiya</h1>
 <h3 align="center">A passionate full-stack developer and B.Tech student</h3>
 
+### About Me
+I'm a full-stack developer and B.Tech student passionate about building scalable web apps and constantly learning new technologies to improve my craft.
+
 - 🌱 I’m currently learning **Backend Development & Databases**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://cwp-pukhrajportfolio.netlify.app/)
 - 💬 Ask me about **React, JavaScript, Node.js, Express**
 - 📫 How to reach me: **pukhrajjharotiya15@gmail.com **
 - ⚡ Fun fact: I love debugging more than coding sometimes!
+
+---
+
+### 🚀 Featured Projects
+- [Instagram Clone](https://github.com/Student-Pukhraj/Instagram-Clone) - A social media web app built with React and Node.js.
+- [Portfolio Website](https://cwp-pukhrajportfolio.netlify.app/) - My personal portfolio built with React and Tailwind CSS.
 
 ---
 
@@ -34,14 +43,13 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
-
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=student-pukhraj&show_icons=true&locale=en&layout=compact" alt="student-pukhraj" /></p>)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=student-pukhraj&show_icons=true&locale=en&layout=compact" alt="student-pukhraj" /></p>
 
 ---
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pukhraj-jharotiya-b44287287/)
-[![Portfolio](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=globe)](cwp-pukhrajportfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=globe)](https://cwp-pukhrajportfolio.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Student-Pukhraj/)
