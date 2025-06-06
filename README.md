@@ -27,8 +27,8 @@ I love creating scalable web applications and enjoy debugging almost as much as 
 
 | Project            | Description                          | Link                                                         |
 |--------------------|----------------------------------|--------------------------------------------------------------|
-| Instagram Clone    | A social media app using React & Node.js | [GitHub](https://github.com/Student-Pukhraj/Instagram-Clone) |
-| Portfolio Website  | Personal portfolio with React & Tailwind CSS | [Live Site](https://cwp-pukhrajportfolio.netlify.app/)        |
+| Lockmate | A secure and user-friendly web app for managing passwords | [Live Demo]([https://github.com/Student-Pukhraj/](https://cwp-lockmate.vercel.app/)) |
+| Portfolio Website | Personal portfolio with React & Tailwind CSS | [Live Site](https://cwp-pukhrajportfolio.netlify.app/)        |
 
 ---
 
