@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <b>Pukhraj Jharotiya</b></h1>
-<h3 align="center">A passionate full-stack developer & B.Tech student from India</h3>
+<h3 align="center">A passionate full-stack developer and B.Tech student specializing in Computer Science Engineering from India.</h3>
 
 ---
 
