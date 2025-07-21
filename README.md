@@ -15,7 +15,7 @@
 I'm a dedicated full-stack developer currently focusing on **Backend Development & Databases**.  
 I love creating scalable web applications and enjoy debugging almost as much as coding!  
 
-- 🔭 Currently working on: **Instagram Clone**  
+- 🔭 Currently working on: **Blog website**  
 - 🌱 Learning: **Express.js, Node.js, Next.js, MongoDB**  
 - 💬 Ask me about: **React, JavaScript, Node.js, Express**  
 - 📫 Reach me at: **pukhrajjharotiya15@gmail.com**  
