@@ -23,6 +23,16 @@ I love creating scalable web applications and enjoy debugging almost as much as 
 
 ---
 
+### 🚀 LeetCode Stats
+
+- 💻 **LeetCode Profile**: Pukhraj_Jharotiya  
+- 🏆 **Rank**: 1,790,439  
+- 📝 **C++**: 31 problems solved  
+- ☕ **JavaScript**: 30 problems solved  
+- 🧠 **Skills**: Dynamic Programming, Divide and Conquer, Two Pointer, Hash Table, Binary Search, Math, Array, String, and more.
+
+---
+
 ### 🚀 Featured Projects
 
 | Project            | Description                          | Link                                                         |
