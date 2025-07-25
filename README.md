@@ -2,7 +2,7 @@
   Hi 👋, I'm Pukhraj Jharotiya
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h3 align="center">A passionate full-stack developer and B.Tech CSE student from India</h3>
+<h3 align="center">I'm a Full-Stack Dev from India 🇮🇳 | B.Tech CSE Student | 💡 Love building cool stuff with code</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Student-Pukhraj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
