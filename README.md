@@ -53,7 +53,6 @@
   - 📝 C++: 57 problems solved  
   - ☕ JavaScript: 30 problems solved  
   - 🧠 Skills: Backtracking, Dynamic Programming, Monotonic Stack, Hash Table, Binary Search, Recursion, Array, Two Pointers, Linked List, String, Stack, Matrix, Sorting, Simulation, and more.
-# 🚀 LeetCode Stats
 ---
 
 ### 🧑‍💻 Featured Projects :
