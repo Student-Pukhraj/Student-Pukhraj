@@ -49,11 +49,11 @@
 
 ### 🚀 LeetCode Stats : 
 - 💻 **LeetCode Profile:** Pukhraj_Jharotiya  
-  - 🏆 Rank: 1,790,439  
-  - 📝 C++: 31 problems solved  
+  - 🏆 Rank: 1,460,366  
+  - 📝 C++: 57 problems solved  
   - ☕ JavaScript: 30 problems solved  
-  - 🧠 Skills: Dynamic Programming, Divide and Conquer, Two Pointer, Hash Table, Binary Search, Math, Array, String, and more.
-
+  - 🧠 Skills: Backtracking, Dynamic Programming, Monotonic Stack, Hash Table, Binary Search, Recursion, Array, Two Pointers, Linked List, String, Stack, Matrix, Sorting, Simulation, and more.
+# 🚀 LeetCode Stats
 ---
 
 ### 🧑‍💻 Featured Projects :
