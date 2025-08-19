@@ -81,7 +81,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </p>
 
----
+### 🛠 Languages and Tools :
+<p align="center">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,babel,bootstrap,c,cpp,css,discord,express,html,js,mongodb,nextjs,netlify,nodejs,postman,react,tailwind,vercel,visualstudio,vite,wordpress," />
+</a>
+</p>
 
 ### 🌐 Connect with Me :
 <p align="center">
