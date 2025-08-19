@@ -56,51 +56,33 @@
 ---
 
 ### 🧑‍💻 Featured Projects :
-| Project            | Description                          | Link                                                         |
-|--------------------|--------------------------------------|--------------------------------------------------------------|
+| Project            | Description                          | Link                                                           |
+|--------------------|--------------------------------------|--------------------------------------------------------------- |
 | Lockmate           | A secure and user-friendly password manager | [Live Demo](https://cwp-lockmate.vercel.app/)           |
-| Portfolio Website  | Personal portfolio with React & Tailwind CSS | [Live Site](https://cwp-pukhrajportfolio.netlify.app/)       |
-
----
-
-### 🛠 Languages and Tools :
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-</p>
+| Portfolio Website  | Personal portfolio with React & Tailwind CSS | [Live Site](https://cwp-pukhrajportfolio.netlify.app/) |
 
 ### 🛠 Languages and Tools :
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,babel,bootstrap,c,cpp,css,discord,express,html,js,mongodb,nextjs,netlify,nodejs,postman,react,tailwind,vercel,visualstudio,vite,wordpress," />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,tailwind,js,babel,react,vite,express,nodejs,nextjs,mongodb,postman,wordpress,visualstudio,figma&perline=10" />
 </a>
 </p>
 
+---
+
 ### 🌐 Connect with Me :
 <p align="center">
-  <a href="https://linkedin.com/in/pukhraj-jharotiya-b44287287" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://github.com/Student-Pukhraj/Student-Pukhraj/">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://leetcode.com/Pukhraj_Jharotiya/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/pukhraj-jharotiya-b44287287/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/Student-Pukhraj" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40" />
+  <a href="https://www.instagram.com/__chintu_chronicles__/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://x.com/pukhraj_jharotiya" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" />
+  <a href="https://x.com/Pukhrajjharotiy">
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
 
