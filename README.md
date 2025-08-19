@@ -57,9 +57,14 @@
 
 ### 🧑‍💻 Featured Projects :
 | Project            | Description                          | Link                                                           |
-|--------------------|--------------------------------------|--------------------------------------------------------------- |
-| Lockmate           | A secure and user-friendly password manager | [Live Demo](https://cwp-lockmate.vercel.app/)           |
-| Portfolio Website  | Personal portfolio with React & Tailwind CSS | [Live Site](https://cwp-pukhrajportfolio.netlify.app/) |
+|--------------------|--------------------------------------|----------------------------------------------------------------|
+| Portfolio Website  | Personal portfolio with React & Tailwind CSS | [Live View](https://cwp-pukhrajportfolio.netlify.app/) |
+| Lockmate           | A secure and user-friendly password manager  | [Live View](https://cwp-lockmate.vercel.app/)          |
+| GridMasterCWP      | Personal portfolio with React & Tailwind CSS | [Live View](https://cwp-gridmaster.netlify.app/)       |
+| CWP-TicTacCode     | Personal portfolio with React & Tailwind CSS | [Live View](https://cwp-tictaccode.netlify.app/)       |
+| Todo List          | Personal portfolio with React & Tailwind CSS | [Live View](https://cwp-todo.netlify.app/)             |
+| Netflix-Clone(UI)  | Personal portfolio with React & Tailwind CSS | [Live View](https://cwp-net-flix.netlify.app/)         |
+| CodeWithPukhraj    | Personal portfolio with React & Tailwind CSS | [Live View](https://codewithpukhraj.netlify.app/)      |
 
 ### 🛠 Languages and Tools :
 <p align="center">
