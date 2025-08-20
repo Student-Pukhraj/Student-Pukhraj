@@ -56,15 +56,16 @@
 ---
 
 ### 🧑‍💻 Featured Projects :
-| Project            | Description                                             | Link                                                   |
-|--------------------|---------------------------------------------------------|--------------------------------------------------------|
-| Portfolio Website  | A sleek React & Tailwind portfolio to showcase my work. | [Live View](https://cwp-pukhrajportfolio.netlify.app/) |
-| Lockmate           | A secure and simple password manager app.               | [Live View](https://cwp-lockmate.vercel.app/)          |
-| GridMasterCWP      | A fun 4×4 Connect-4 clone game.                         | [Live View](https://cwp-gridmaster.netlify.app/)       |
-| CWP-TicTacCode     | A classic 3×3 Tic-Tac-Toe game.                         | [Live View](https://cwp-tictaccode.netlify.app/)       |
-| Todo List          | A clean and easy-to-use daily task manager.             | [Live View](https://cwp-todo.netlify.app/)             |
-| Netflix-Clone(UI)  | A Netflix-inspired UI clone built with React.           | [Live View](https://cwp-net-flix.netlify.app/)         |
-| CodeWithPukhraj    | My personal website for coding & resources.             | [Live View](https://codewithpukhraj.netlify.app/)      |
+
+| Project | Description | Link |
+|---------|-------------|------|
+| Portfolio Website | A sleek React & Tailwind portfolio to showcase my work. | <a href="https://cwp-pukhrajportfolio.netlify.app/" target="_blank">Live View</a> |
+| Lockmate | A secure and simple password manager app. | <a href="https://cwp-lockmate.vercel.app/" target="_blank">Live View</a> |
+| GridMasterCWP | A fun 4×4 Connect-4 clone game. | <a href="https://cwp-gridmaster.netlify.app/" target="_blank">Live View</a> |
+| CWP-TicTacCode | A classic 3×3 Tic-Tac-Toe game. | <a href="https://cwp-tictaccode.netlify.app/" target="_blank">Live View</a> |
+| Todo List | A clean and easy-to-use daily task manager. | <a href="https://cwp-todo.netlify.app/" target="_blank">Live View</a> |
+| Netflix-Clone (UI) | A Netflix-inspired UI clone built with React. | <a href="https://cwp-net-flix.netlify.app/" target="_blank">Live View</a> |
+| CodeWithPukhraj | My personal website for coding & resources. | <a href="https://codewithpukhraj.netlify.app/" target="_blank">Live View</a> |
 
 ---
 
