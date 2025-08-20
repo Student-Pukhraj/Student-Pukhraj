@@ -56,17 +56,26 @@
 ---
 
 ### 🧑‍💻 Featured Projects :
+  #### Front-end Projects : 
 
 | Project | Description | Link |
 |---------|-------------|------|
 | Portfolio Website | A sleek React & Tailwind portfolio to showcase my work. | <a href="https://cwp-pukhrajportfolio.netlify.app/" target="_blank">Live View</a> |
-| Lockmate | A secure and simple password manager app. | <a href="https://cwp-lockmate.vercel.app/" target="_blank">Live View</a> |
+| EduWeb | Responsive education platform website. | <a href="https://cwp-eduweb.netlify.app/" target="_blank">Live View</a> |
+| Html Cheatsheet | Quick guide to essential HTML tags. | <a href="https://cwp-html.netlify.app/" target="_blank">Live View</a> |
+| rajasthancoffee | Stylish landing page for coffee lovers. | <a href="https://cwp-rajasthancoffee.netlify.app/" target="_blank">Live View</a> |
 | GridMasterCWP | A fun 4×4 Connect-4 clone game. | <a href="https://cwp-gridmaster.netlify.app/" target="_blank">Live View</a> |
 | CWP-TicTacCode | A classic 3×3 Tic-Tac-Toe game. | <a href="https://cwp-tictaccode.netlify.app/" target="_blank">Live View</a> |
 | Todo List | A clean and easy-to-use daily task manager. | <a href="https://cwp-todo.netlify.app/" target="_blank">Live View</a> |
 | Netflix-Clone (UI) | A Netflix-inspired UI clone built with React. | <a href="https://cwp-net-flix.netlify.app/" target="_blank">Live View</a> |
 | CodeWithPukhraj | My personal website for coding & resources. | <a href="https://codewithpukhraj.netlify.app/" target="_blank">Live View</a> |
 
+  #### Back-end Projects : 
+
+| Project | Description | Link |
+|---------|-------------|------|
+| Lockmate | A secure and simple password manager app. | <a href="https://cwp-lockmate.vercel.app/" target="_blank">Live View</a> |
+| Chinlink | Simple, secure, and private URL shortening | <a href="https://cwp-chinlink.vercel.app/" target="_blank">Live View</a> |
 ---
 
 ### 🛠 Languages and Tools :
