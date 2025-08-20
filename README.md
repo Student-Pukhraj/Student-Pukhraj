@@ -56,15 +56,17 @@
 ---
 
 ### 🧑‍💻 Featured Projects :
-| Project            | Description                          | Link                                                           |
-|--------------------|--------------------------------------|----------------------------------------------------------------|
-| Portfolio Website  | Personal portfolio with React & Tailwind CSS | [Live View](https://cwp-pukhrajportfolio.netlify.app/) |
-| Lockmate           | A secure and user-friendly password manager  | [Live View](https://cwp-lockmate.vercel.app/)          |
-| GridMasterCWP      | Personal portfolio with React & Tailwind CSS | [Live View](https://cwp-gridmaster.netlify.app/)       |
-| CWP-TicTacCode     | Personal portfolio with React & Tailwind CSS | [Live View](https://cwp-tictaccode.netlify.app/)       |
-| Todo List          | Personal portfolio with React & Tailwind CSS | [Live View](https://cwp-todo.netlify.app/)             |
-| Netflix-Clone(UI)  | Personal portfolio with React & Tailwind CSS | [Live View](https://cwp-net-flix.netlify.app/)         |
-| CodeWithPukhraj    | Personal portfolio with React & Tailwind CSS | [Live View](https://codewithpukhraj.netlify.app/)      |
+| Project            | Description                                             | Link                                                   |
+|--------------------|---------------------------------------------------------|--------------------------------------------------------|
+| Portfolio Website  | A sleek React & Tailwind portfolio to showcase my work. | [Live View](https://cwp-pukhrajportfolio.netlify.app/) |
+| Lockmate           | A secure and simple password manager app.               | [Live View](https://cwp-lockmate.vercel.app/)          |
+| GridMasterCWP      | A fun 4×4 Connect-4 clone game.                         | [Live View](https://cwp-gridmaster.netlify.app/)       |
+| CWP-TicTacCode     | A classic 3×3 Tic-Tac-Toe game.                         | [Live View](https://cwp-tictaccode.netlify.app/)       |
+| Todo List          | A clean and easy-to-use daily task manager.             | [Live View](https://cwp-todo.netlify.app/)             |
+| Netflix-Clone(UI)  | A Netflix-inspired UI clone built with React.           | [Live View](https://cwp-net-flix.netlify.app/)         |
+| CodeWithPukhraj    | My personal website for coding & resources.             | [Live View](https://codewithpukhraj.netlify.app/)      |
+
+---
 
 ### 🛠 Languages and Tools :
 <p align="center">
