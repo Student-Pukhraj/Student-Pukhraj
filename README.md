@@ -56,7 +56,14 @@
 ---
 
 ### 🧑‍💻 Featured Projects :
-- **Front-End Projects**: 
+
+- **New One** :
+
+| Project | Description | Link |
+|---------|-------------|------|
+| CWP Journal | A minimal blog website to share thoughts, projects, and learnings. | <a href="https://cwp-journal.vercel.app/" target="_blank">Live View</a> |
+
+- **Front-End Projects** : 
 
 | Project | Description | Link |
 |---------|-------------|------|
@@ -70,7 +77,7 @@
 | Netflix-Clone (UI) | A Netflix-inspired UI clone built with React. | <a href="https://cwp-net-flix.netlify.app/" target="_blank">Live View</a> |
 | CodeWithPukhraj | My personal website for coding & resources. | <a href="https://codewithpukhraj.netlify.app/" target="_blank">Live View</a> |
 
-- **Back-End Projects**: 
+- **Back-End Projects** : 
 
 | Project | Description | Link |
 |---------|-------------|------|
