@@ -48,11 +48,15 @@
 ---
 
 ### 🚀 LeetCode Stats : 
-- 💻 **LeetCode Profile:** <a href="https://leetcode.com/u/Pukhraj_Jharotiya/">Pukhraj_Jharotiya</a>  
+- 💻 **LeetCode Profile:** [Pukhraj_Jharotiya](https://leetcode.com/u/Pukhraj_Jharotiya/) 
   - 🏆 Rank: 1,299,066 
   - 📝 C++: 71 problems solved  
   - ☕ JavaScript: 30 problems solved  
   - 🧠 Skills: Backtracking, Dynamic Programming, Monotonic Stack, Hash Table, Binary Search, Recursion, Array, Two Pointers, Linked List, String, Stack, Matrix, Sorting, Simulation, and more.
+---
+
+### 🧑‍💻 CodeChef Profile
+- 🧑‍🍳 **CodeChef Profile:** [cwp_pukhraj](https://www.codechef.com/users/cwp_pukhraj)
 ---
 
 ### 🧑‍💻 Featured Projects :
@@ -61,7 +65,7 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| CWP Journal | A minimal blog website to share thoughts, projects, and learnings. | <a href="https://cwp-journal.vercel.app/" target="_blank">Live View</a> |
+| CWP Journal | A minimal blog website to share thoughts, projects, and learnings. | [CWP_Journal](https://cwp-journal.vercel.app/") |
 
 - **Front-End Projects** : 
 
