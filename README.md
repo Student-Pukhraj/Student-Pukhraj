@@ -48,7 +48,7 @@
 ---
 
 ### 🚀 LeetCode Stats : 
-- 💻 **LeetCode Profile:** Pukhraj_Jharotiya  
+- 💻 **LeetCode Profile:** <a href="https://leetcode.com/u/Pukhraj_Jharotiya/">Pukhraj_Jharotiya</a>  
   - 🏆 Rank: 1,299,066 
   - 📝 C++: 71 problems solved  
   - ☕ JavaScript: 30 problems solved  
