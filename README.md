@@ -2,7 +2,7 @@
   Hi 👋, I'm Pukhraj Jharotiya
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h3 align="center">I'm a Full-Stack Dev from India 🇮🇳 | B.Tech CSE Student | 💡 Love building cool stuff with code</h3>
+<h3 align="center">I'm a Software Engineer from India 🇮🇳 | B.Tech CSE Student | 💡 Love building cool stuff with code</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Student-Pukhraj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -23,11 +23,11 @@
 ---
 
 ### 🛠 About Me :
-- 🔭 I’m currently working on a **Blog Website**
+- 🔭 I’m currently working on a **Food Website**
 - 🌱 I’m currently learning **Node.js, Express, MongoDB, and Next.js**
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 - 🤝 I’m looking for help with **Backend Development & Databases**
-- 💬 Ask me about **React, JavaScript, Node.js, Express**
+- 💬 Ask me about **React, JavaScript**
 - 📫 Reach me at: **pukhrajjharotiya15@gmail.com**
 - ⚡ Fun fact: **Dark mode boosts my productivity by 27.8%!**
 - 💡 I love solving real-world problems through code and building scalable apps.
@@ -35,14 +35,13 @@
 ---
 
 ### 💼 Experience :
-- 🧠 Working on real-world full stack development projects as a self-learner.
+- 🧠 Working on real-world full-stack development projects as a self-learner.
 - 🎓 Final-year B.Tech CSE student at **Rajasthan Institute of Engineering and Technology, Jaipur**
 
 ---
 
 ### 🌟 Achievements :
-- 🎯 Improved SGPA each semester: from 6.27 in Sem 1 to 8.37 in Sem 5
-- 🧑‍💻 Completed CodeWithHarry's **Sigma Web Dev Course** and building strong full stack project portfolio
+- 🎯 Improved SGPA each semester: from 6.27 in Sem 1 to 8.57 in Sem 6
 - 📚 Built projects like Lockmate, Portfolio, Linktree Clone, Netflix Clone, and more.
 
 ---
