@@ -64,7 +64,7 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| CWP Journal | A minimal blog website to share thoughts, projects, and learnings. | [CWP_Journal](https://cwp-journal.vercel.app/") |
+| CWP Journal | A minimal blog website to share thoughts, projects, and learnings. | [CWP_Journal](https://cwp-journal.vercel.app) |
 
 - **Front-End Projects** : 
 
